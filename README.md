@@ -1,4 +1,4 @@
-# FPS counter and performance statistics for BepInEx
+# FPS counter and performance statistics for BepInEx Modified For Gtag Speical Options
 A BepInEx plugin that measures many performance statistics of Unity engine games. It can be used to help determine causes of performance drops and other issues. Here are some of the features:
 - Accurately measures true ms spent per frame (not calculated from FPS)
 - Measures time spent in each of the steps Unity takes in order to render a frame (e.g. how long all Update methods took to run collectively)
